@@ -22,6 +22,29 @@
  
  
 "freePredictions":[
+    {
+            "fixture": "Borussia Dortmund Vs Seville",
+            "prediction": "Over 1.5",
+            "date": "11/10/2022"
+        },
+        {
+            "fixture": "Paris Saint-Germain Vs Benfica",
+            "prediction": "Home win, Over 1.5",
+            "date": "11/10/2022"
+        },
+     {
+            "fixture": "Dinamo Zagreb Vs Salzburg",
+            "prediction": "Over 1.5",
+            "date": "11/10/2022"
+        },
+     {
+            "fixture": "Shakhtar Donetsk Vs Real Madrid",
+            "prediction": "Away Win",
+            "date": "11/10/2022"
+        } ,   
+    
+    
+    
      {
             "fixture": "IFK Norrkoping FK Vs Mjallby AIF",
             "prediction": "Home Win",
