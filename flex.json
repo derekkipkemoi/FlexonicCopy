@@ -1,46 +1,46 @@
 {"plans":[
     {
-       "name": "Free Tips", "amount": "Ksh 0" , "accessDays": "Tue Oct 11 2022", "odds":"3 to 5 Odds Daily"
+       "name": "Free Tips", "amount": "Ksh 0" , "accessDays": "Wed Oct 12 2022", "odds":"3 to 5 Odds Daily"
     },
     
     {
-       "name": "Basic Tips", "amount": "Ksh 100" , "accessDays": "Tue Oct 11 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub"
+       "name": "Basic Tips", "amount": "Ksh 100" , "accessDays": "Wed Oct 12 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub"
     },
     {
-        "name": "Standard Tips", "amount": "Ksh 300" , "accessDays": "Tue Oct 11 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub"
+        "name": "Standard Tips", "amount": "Ksh 300" , "accessDays": "Wed Oct 12 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub"
      },
      {
-        "name": "Premium Tips", "amount": "Ksh 500" , "accessDays": "Tue Oct 11 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub"
+        "name": "Premium Tips", "amount": "Ksh 500" , "accessDays": "Wed Oct 12 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub"
      },
     {
-        "name": "Fixed Matches", "amount": "Ksh 1000" , "accessDays": "Tue Oct 11 2022", "odds":"Get 5 Fixed Matches!!",  "id":"id_fixed_sub"
+        "name": "Fixed Matches", "amount": "Ksh 1000" , "accessDays": "Wed Oct 12 2022", "odds":"Get 5 Fixed Matches!!",  "id":"id_fixed_sub"
      },
      {
-        "name": "Jackpot Tips", "amount": "Ksh 250" , "accessDays": "Tue Oct 11 2022", "odds":"Guaranteed Bonus on Jackpot (JP)",  "id":"id_jackpot_sub"
+        "name": "Jackpot Tips", "amount": "Ksh 250" , "accessDays": "Wed Oct 12 2022", "odds":"Guaranteed Bonus on Jackpot (JP)",  "id":"id_jackpot_sub"
      }
 ],
  
  
 "freePredictions":[
     {
-            "fixture": "Borussia Dortmund Vs Seville",
+            "fixture": "Napoli Vs Ajax",
             "prediction": "Over 1.5",
-            "date": "11/10/2022"
+            "date": "12/10/2022"
         },
         {
-            "fixture": "Paris Saint-Germain Vs Benfica",
-            "prediction": "Home win, Over 1.5",
-            "date": "11/10/2022"
+            "fixture": "Viktoria Plzen Vs Bayern Munich",
+            "prediction": "Away win, Over 1.5",
+            "date": "12/10/2022"
         },
      {
-            "fixture": "Dinamo Zagreb Vs Salzburg",
-            "prediction": "Over 1.5",
-            "date": "11/10/2022"
+            "fixture": "Atletico Madrid Vs Club Brugge",
+            "prediction": "Home win",
+            "date": "12/10/2022"
         },
      {
-            "fixture": "Shakhtar Donetsk Vs Real Madrid",
+            "fixture": "Rangers Vs Liverpool",
             "prediction": "Away Win",
-            "date": "11/10/2022"
+            "date": "12/10/2022"
         } 
  ],
  
@@ -60,6 +60,29 @@
 
 
 "predictionResults":[
+    {
+       "date": "Monday, 10.10.2022",
+       "gamesList": [
+        {
+            "fixture": "Riffa Club VS Ittifaq Maqaba",
+            "prediction": "HT CS 1-0",
+            "odds": "5.09",
+            "results": "Odds 5.09 (WIN)"
+        },
+        {
+            "fixture": "Seinajoen JK VS FC Honka Espoo",
+            "prediction": "Under 0.5 Goals",
+            "odds": "7.21",
+            "results": "Odds 7.21 (WIN)"
+        },
+        {
+            "fixture": "BKMA-2 Yerevan VS Lernayin Artsakh II",
+            "prediction": "Over 5.5",
+            "odds": "6.71",
+            "results": "Odds 6.71 (WIN)"
+        }
+       ]
+    },
     {
        "date": "Sunday, 9.10.2022",
        "gamesList": [
