@@ -1,68 +1,49 @@
 {"plans":[
     {
-       "name": "Free Tips", "amount": "Ksh 0" , "accessDays": "Thur Oct 13 2022", "odds":"3 to 5 Odds Daily"
+       "name": "Free Tips", "amount": "Ksh 0" , "accessDays": "Fri Oct 14 2022", "odds":"3 to 5 Odds Daily"
     },
     
     {
-       "name": "Basic Tips", "amount": "Ksh 100" , "accessDays": "Thur Oct 13 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub"
+       "name": "Basic Tips", "amount": "Ksh 100" , "accessDays": "Fri Oct 14 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub"
     },
     {
-        "name": "Standard Tips", "amount": "Ksh 300" , "accessDays": "Thur Oct 13 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub"
+        "name": "Standard Tips", "amount": "Ksh 300" , "accessDays": "Fri Oct 14 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub"
      },
      {
-        "name": "Premium Tips", "amount": "Ksh 500" , "accessDays": "Thur Oct 13 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub"
+        "name": "Premium Tips", "amount": "Ksh 500" , "accessDays": "Fri Oct 14 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub"
      },
     {
-        "name": "Fixed Matches", "amount": "Ksh 1000" , "accessDays": "Thurs Oct 13 2022", "odds":"Get 5 Fixed Matches!!",  "id":"id_fixed_sub"
+        "name": "Fixed Matches", "amount": "Ksh 1000" , "accessDays": "Fri Oct 14 2022", "odds":"Get 5 Fixed Matches!!",  "id":"id_fixed_sub"
      },
      {
-        "name": "Jackpot Tips", "amount": "Ksh 250" , "accessDays": "Thurs Oct 13 2022", "odds":"Guaranteed Bonus on Jackpot (JP)",  "id":"id_jackpot_sub"
+        "name": "Jackpot Tips", "amount": "Ksh 250" , "accessDays": "Fri Oct 14 2022", "odds":"Guaranteed Bonus on Jackpot (JP)",  "id":"id_jackpot_sub"
      }
 ],
  
  
 "freePredictions":[
     {
-            "fixture": "Bodø/Glimt Vs Arsenal",
+            "fixture": "Ahli Doha – Al Wakra",
             "prediction": "Over 1.5",
-            "date": "13/10/2022"
+            "date": "14/10/2022"
         },
         {
-            "fixture": "PSV Eindhoven Vs Zurich",
-            "prediction": "Home win, Over 1.5",
-            "date": "13/10/2022"
+            "fixture": "Lausanne Vs Neuchatel Xamax",
+            "prediction": "Home win/Draw, Over 1.5",
+            "date": "14/10/2022"
         },
      {
-            "fixture": "Real Sociedad Vs Sheriff Tiraspol",
-            "prediction": "Home win",
-            "date": "13/10/2022"
-        },
-     {
-            "fixture": "Feyenoord Vs FC Midtjylland",
+            "fixture": "Almere City Vs Jong Ajax Amsterdam",
             "prediction": "Over 1.5",
-            "date": "13/10/2022"
-        } , 
-    
-    {
-            "fixture": "Napoli Vs Ajax",
+            "date": "14/10/2022"
+        },
+     {
+            "fixture": "Wexford – Galway United",
             "prediction": "Over 1.5",
-            "date": "12/10/2022"
-        },
-        {
-            "fixture": "Viktoria Plzen Vs Bayern Munich",
-            "prediction": "Away win, Over 1.5",
-            "date": "12/10/2022"
-        },
-     {
-            "fixture": "Atletico Madrid Vs Club Brugge",
-            "prediction": "Home win",
-            "date": "12/10/2022"
-        },
-     {
-            "fixture": "Rangers Vs Liverpool",
-            "prediction": "Away Win",
-            "date": "12/10/2022"
+            "date": "14/10/2022"
         } 
+    
+    
  ],
  
  "paidPredictions":[
@@ -81,6 +62,29 @@
 
 
 "predictionResults":[
+    {
+       "date": "Wednesday, 12.10.2022",
+       "gamesList": [
+        {
+            "fixture": "Al Faisaly (KSA) VS Al Qaisoma ",
+            "prediction": "Correct Score 0-1",
+            "odds": "7.53",
+            "results": "Odds 7.53 (WIN)"
+        },
+        {
+            "fixture": "Manama Club VS Bahrain Club ",
+            "prediction": "1 & NG ",
+            "odds": "4.29",
+            "results": "Odds 4.29 (WIN)"
+        },
+        {
+            "fixture": "Dinamo Tbilisi VS Dila Gori ",
+            "prediction": "1 & Over 2.5 Goals ",
+            "odds": "3.68",
+            "results": "Odds 3.68 (WIN)"
+        }
+       ]
+    },
     {
        "date": "Tuesday, 11.10.2022",
        "gamesList": [
