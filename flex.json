@@ -1,5 +1,23 @@
 {"plans":[
+    {
+       "name": "Premier League Fixtures", "amount": "Upcoming" , "accessDays": "Saturday 15th October", "odds":"Leicester Vs Crystal Palace"
+    },
     
+    {
+       "name": "Premier League Fixtures", "amount": "Upcoming" , "accessDays": "Saturday 15th October", "odds":"Fullham Vs Bournmounth","id":"id_basic_sub"
+    },
+    {
+        "name": "Premier League Fixtures", "amount": "Upcoming" , "accessDays": "Saturday 15th October", "odds":"Tottenham Vs Everton", "id":"id_standard_sub"
+     },
+     {
+        "name": "Premier League Fixtures", "amount": "Upcoming" , "accessDays": "Sunday 16th October", "odds":"Crystal Palace Vs Wolverhampton",  "id":"id_premium_sub"
+     },
+    {
+        "name": "Premier League Fixtures", "amount": "Upcoming" , "accessDays": "Sunday 16th October", "odds":"Brighton Vs Nottingham",  "id":"id_fixed_sub"
+     },
+     {
+        "name": "Premier League Fixtures", "amount": "Upcoming" , "accessDays": "Monday 19th October", "odds":"Brentford Vs Chelsea",  "id":"id_jackpot_sub"
+     }
 ],
  
  
