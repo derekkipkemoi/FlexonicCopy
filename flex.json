@@ -1,9 +1,5 @@
 {"plans":[
     {
-       "name": "Premier League Fixtures", "amount": "Upcoming" , "accessDays": "Saturday 15th October", "odds":"Leicester Vs Crystal Palace"
-    },
-    
-    {
        "name": "Premier League Fixtures", "amount": "Upcoming" , "accessDays": "Saturday 15th October", "odds":"Fullham Vs Bournmounth","id":"id_basic_sub"
     },
     {
