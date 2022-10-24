@@ -1,29 +1,72 @@
 {"plans":[
-    
+    {
+          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Sun Oct 24 2022", "odds":"5 Odds Daily","id":"id_free_sub", "length":4
+       },
+       
+       {
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Sun Oct 24 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub","length":4
+       },
+       {
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Sun Oct 24 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub","length":8     
+        },
+        {
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Sun Oct 24 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub","length":12
+        },
+        {
+           "name": "Fixed Matches", "amount": "Ksh1,000" , "accessDays": "Sun Oct 24 2022", "odds":"Get 5 Fixed Matches!!",  "id":"id_fixed_sub","length":12
+        }
 ],
  
  
 "freePredictions":[
     {
-            "fixture": "Liverpool vs Man City",
-            "prediction": "Over 1.5",
-            "date": "16/10/2022"
-        },
+               "fixture": "Jong Ajax Amsterdam Vs VVV Venlo",
+               "prediction": "Over 1.5",
+               "date": "24/10/2022"
+           },
+           {
+               "fixture": "Jong AZ Alkmaar Vs Telstar",
+               "prediction": "Over 1.5",
+               "date": "24/10/2022"
+           },
         {
-            "fixture": "Bayern Munich vs Freiburg",
-            "prediction": "	Home win/Draw, Over 1.5",
-            "date": "16/10/2022"
-        },
-     {
-            "fixture": "Lillestrøm SK vs Molde",
-            "prediction": "Over 1.5",
-            "date": "16/10/2022"
-        },
-     {
-            "fixture": "Vålerenga vs Bodø/Glimt",
-            "prediction": "Over 1.5",
-            "date": "16/10/2022"
-        } 
+               "fixture": "Levadiakos Vs AEK Athens",
+               "prediction": "Away win",
+               "date": "24/10/2022"
+           },
+        {
+               "fixture": "Jong Utrecht Vs Zwolle",
+               "prediction": "Over 1.5",
+               "date": "23/10/2022"
+           } ,
+        {
+               "fixture": "Borussia Dortmund Vs Man City",
+               "prediction": "Over 1.5",
+               "date": "24/10/2022"
+           } ,
+        
+        
+        
+       {
+               "fixture": "Molde Vs Rosenborg BK",
+               "prediction": "Over 1.5",
+               "date": "23/10/2022"
+           },
+           {
+               "fixture": "Bodø/Glimt Vs Kristiansund BK",
+               "prediction": "Over 1.5 Home win",
+               "date": "23/10/2022"
+           },
+        {
+               "fixture": "Southampton Vs Arsenal",
+               "prediction": "Away win/Draw",
+               "date": "23/10/2022"
+           },
+        {
+               "fixture": "Volendam Vs Heerenveen",
+               "prediction": "Over 1.5",
+               "date": "23/10/2022"
+           } 
     
     
  ],
